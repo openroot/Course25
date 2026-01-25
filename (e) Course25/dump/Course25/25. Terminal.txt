@@ -1,9 +1,0 @@
------------------------------
------------------------------
-
-*	Terminal: Inventory Section
-..	Tier: Storage Dimension
-::.	Rank: Optimisation Level
-
------------------------------
------------------------------

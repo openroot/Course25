@@ -1,9 +1,0 @@
------------------------------
------------------------------
-
-*	Process: Prototype Export
-..	Topic: Concurrent Entity
-::.	Permit: Scientific Clause
-
------------------------------
------------------------------
