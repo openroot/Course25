@@ -13,12 +13,12 @@
 ::.	Story: Miniature Content
 
 *	SeatNumber38: Full Coverage
-..	Track
-::.	Stamp
+..	Track: Functional Compatibility
+::.	Stamp: Modular Characteristic
 
 *	LiveDeck29: Value Exchange
-..	Compound
-::.	Interest
+..	Compound: Divisional Swift
+::.	Interest: Fractional Order
 
 -----------------------------
 -----------------------------
