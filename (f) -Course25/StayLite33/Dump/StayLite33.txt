@@ -13,12 +13,12 @@
 ::.	Story: Miniature Content
 
 *	SeatNumber38: Full Coverage
-..	
-::.	
+..	Track
+::.	Stamp
 
 *	LiveDeck29: Value Exchange
-..	
-::.	
+..	Compound
+::.	Interest
 
 -----------------------------
 -----------------------------
